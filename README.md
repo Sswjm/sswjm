@@ -3,8 +3,23 @@
 <!--
 **Sswjm/sswjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Sswjm&show_icons=true&include_all_commits=true)](https://github.com/Sswjm/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sswjm&layout=compact)](https://github.com/Sswjm/github-readme-stats)
+<a href="https://github.com/lowlighter/metrics">
+  <img src="/metrics.classic.svg"/>
+</a>
+
+<details>
+  <summary>Projects I created</summary>
+  <a href="https://github.com/sswjm?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="/metrics.plugin.repositories.starred.svg"/>
+  </a>
+</details>
+
+<details>
+  <summary>📆 Commit calendar</summary>
+  <a href="https://github.com/sswjm?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="/metrics.plugin.calendar.full.svg"/>
+  </a>
+</details>
 
 Here are some ideas to get you started:
 
