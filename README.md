@@ -2,6 +2,8 @@
 
 Studied at Northeastern University(CN) and University of Science and Technology of China
 
+![Metrics](/github-metrics.svg)
+
 <!--
 **Sswjm/sswjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
